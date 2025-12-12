@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    max-width: 1fr;
+    height: 65px;
+    background-color: #1A0B2E;
+    display: flex;
+    align-items: center;
+    padding-left: 290px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-left: 320px;
+    gap: -70px;
+}
+
+.container {
+    background-color: #10051e;
+    max-width: 1fr;
+    height: 3200px;
+}
+
+.img-row {
+    filter: drop-shadow(5px 5px 50px #763cac);
+    padding-left: 250px;
+    padding-top: 120px;
+}
+
+.Arrow {
+    margin-left: 150px;
+    margin-top: -335px;
+}
+
+.first-text {
+    color: white;
+    font-style: italic;
+    margin-left: 260px;
+    margin-top: -105px;
+}
+
+.firsthalf-text {
+    font-style: italic;
+    color: #371955;
+    margin-left: 345px;
+    margin-top: -18px;
+}
+
+.second-text {
+    margin-left: 275px;
+    margin-top: 70px;
+}
+
+.third-text {
+    margin-left: 265px;
+    margin-top: 10px;
+}
+
+.fourth-text {
+    color: white;
+    font-style: italic;
+    margin-left: 260px;
+}
+
+.fifth-text {
+    color: white;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family: "Poppins", sans-serif;
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
+    margin-left: 20px;
+    margin-top: 110px;
+}
+
+.sixth-text {
+    margin-left: 17px;
+}
+
+.seventh-text {
+    color: white;
+    font-size: 13px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family: "Poppins", sans-serif;
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
+    margin-left: 15px;
+}
+
+.eight-text {
+    color: white;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family: "Poppins", sans-serif;
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
+    margin-left: 10px;
+    margin-top: 130px;
+}
+
+.skills {
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.maintwo-box {
+    margin-top: 90px;
+    margin-left: -50px;
+}
+
+.mainbox-three {
+    margin-left: -50px;
+    margin-top: 85px;
+}
+
+.ninth-text {
+    color: white;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family: "Poppins", sans-serif;
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
+    margin-left: 200px;
+    margin-top: 150px;
+    font-size: 28px;
+}
+
+.ten-text {
+    color: white;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family: "Poppins", sans-serif;
+    text-shadow: 0 0 6px rgba(255, 255, 255, 0.3);
+    margin-left: 200px;
+    margin-top: 85px;
+}
+
+.icon {
+    margin-left: 200px;
+    margin-top: 40px;
+}
